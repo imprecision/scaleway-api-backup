@@ -1,4 +1,4 @@
-#scaleway-api-backup
+# scaleway-api-backup
 
 A simple PHP command-line based tool to automate backups of Scaleway instances (snapshots or images). Can be run manually or automatically e.g. via crontab.
 
